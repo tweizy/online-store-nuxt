@@ -1,3 +1,6 @@
+# Netlify deployment
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c2adef0-8704-4a4d-a9c8-15e574b07027/deploy-status)](https://app.netlify.com/sites/onlinefakestorenuxt/deploys)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
